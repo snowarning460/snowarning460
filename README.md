@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+### My name is Dowon Kim and I go to Yeongnam University.
+
+
+
 <!--
 **snowarning460/snowarning460** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
